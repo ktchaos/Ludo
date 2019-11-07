@@ -1,2 +1,2 @@
 # Ludo
-Projeto final da disciplina Linguagem de Programação I (2019.1)
+Final project from the discipline Programming Language I at the semester of 2019.1
